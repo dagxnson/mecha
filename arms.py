@@ -1,0 +1,2 @@
+def readPotentiometer():
+    pass
