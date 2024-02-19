@@ -1,2 +1,2 @@
-def readPotentiometer():
+def readPot():
     pass
