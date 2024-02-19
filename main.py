@@ -1,3 +1,2 @@
-print('Hello World')
+import arm
 
-import os
