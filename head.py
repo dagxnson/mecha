@@ -1,2 +1,0 @@
-def moveUP():
-    pass
